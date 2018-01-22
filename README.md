@@ -6,3 +6,5 @@ inner
 devinsert
 
 dev insetr
+
+git is free software
